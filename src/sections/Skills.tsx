@@ -9,7 +9,6 @@ import {
   GitBranch, 
   Terminal,
   Layers,
-  Cpu,
   Globe,
   Workflow
 } from 'lucide-react';
