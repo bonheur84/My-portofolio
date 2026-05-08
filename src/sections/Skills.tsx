@@ -1,3 +1,4 @@
+// Updated skills section for Vercel deployment
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
